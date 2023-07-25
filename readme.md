@@ -1,4 +1,3 @@
-### Streamlit playground
+### Learning Streamlit
 
-A place to try out and store all the things I have learnt about streamlit so far
-
+Source code can be found on (GitHub)[https://github.com/kelloggs13/LearningStreamlit]
